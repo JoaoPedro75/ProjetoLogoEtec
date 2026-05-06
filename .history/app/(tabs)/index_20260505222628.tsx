@@ -32,13 +32,13 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
-    backgroundColor: '#fff', 
+    backgroundColor: '#fff', // fundo branco
   },
   card: {
     backgroundColor: '#d3d3d3', 
     padding: 20,
     alignItems: 'center',
-    width: '40%', 
+    width: '100%', 
   },
   title: {
     fontSize: 26,
